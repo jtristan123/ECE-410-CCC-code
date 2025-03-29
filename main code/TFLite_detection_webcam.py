@@ -1,5 +1,5 @@
 ######## Webcam Object Detection Using Tensorflow-trained Classifier #########
-# test pycharm in github macbook pro
+# test pycharm in github macbook pro doing stuff testing 
 # Author: Evan Juras
 # Date: 10/27/19 created by author
 # Being used by the CCC robot ece410
